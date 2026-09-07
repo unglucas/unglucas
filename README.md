@@ -7,5 +7,5 @@ Connecting the two — integrating trained models into real, usable applications
 
 ## Contact Information
 Github: [unglucas](https://github.com/unglucas)
-LinkedIn: [lucas-ung](https://www.linkedin.com/in/lucas-ung-a36711406/)
-Email: pfz8yt@virginia.edu
++ LinkedIn: [lucas-ung](https://www.linkedin.com/in/lucas-ung-a36711406/)
++ Email: pfz8yt@virginia.edu
