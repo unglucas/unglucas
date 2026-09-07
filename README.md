@@ -1,4 +1,7 @@
 ## Hi, I'm Lucas Ung 👋
+I am currently a 2nd year Computer Engineering undergraduate at the University of Virginia, graduating in Spring 2029. 
+
+I like building full-stack applications and ML/AI pipelines — turning ideas into working software from the frontend down to the model layer.
 
 ## What I'm working on
 + Full-stack apps with React, Next.js
