@@ -14,6 +14,10 @@ Worked with UVA"s Department of Material Science on corrosion analysis to improv
 
 
 ## What I Use
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
 
 ## Contact Information
 + Github: [unglucas](https://github.com/unglucas)
