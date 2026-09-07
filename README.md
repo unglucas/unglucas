@@ -10,7 +10,7 @@ I like building full-stack applications and ML/AI pipelines — turning ideas in
 
 ## Projects
 ### CorroScan
-Worked with UVA"s Department of Material Science on corrosion analysis to improve assessments times, and turn manual to automated analysis. 
+Partnered with UVA's Department of Materials Science to automate corrosion analysis, cutting assessment time and replacing manual review with a streamlined pipeline.
 
 
 ## What I Use
