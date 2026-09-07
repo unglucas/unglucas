@@ -6,6 +6,6 @@ ML/AI pipelines using Python, PyTorch, and scikit-learn.
 Connecting the two — integrating trained models into real, usable applications.
 
 ## Contact Information
-Github: ([unglucas](https://github.com/unglucas))
-LinkedIn: [lucas-ung]([url](https://www.linkedin.com/in/lucas-ung-a36711406/))
-Email: pfz8yt@virginia.edu
+Github: [unglucas](https://github.com/unglucas)
+\n LinkedIn: [lucas-ung](https://www.linkedin.com/in/lucas-ung-a36711406/)
+\n Email: pfz8yt@virginia.edu
