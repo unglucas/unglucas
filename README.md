@@ -9,7 +9,7 @@ I like building full-stack applications and ML/AI pipelines — turning ideas in
 + Connecting the two — integrating trained models into real, usable applications.
 
 ## Projects
-# CorroScan
+### CorroScan
 Worked with UVA"s Department of Material Science on corrosion analysis to improve assessments times, and turn manual to automated analysis. 
 
 
